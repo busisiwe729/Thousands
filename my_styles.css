@@ -1,19 +1,19 @@
 body {
-	background-color:black
+	background-color: black;
  }
 
 h1 {
-	font-family:arial;
+	font-family: arial;
 	color: pink;
  }
 
 h2 {
-	font-family:comic-sans;
+	font-family: comic-sans;
 	color: purple;
  }
 
 p {
-	background-color:coral;
+	background-color: coral;
 	font-family: blue;
 	color: red;
  }
